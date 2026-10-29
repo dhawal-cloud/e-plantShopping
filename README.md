@@ -1,13 +1,13 @@
-# paradise-nursery
-# Paradise Nursery
+# e-plantShopping
 
 ## Project Name
-Paradise Nursery: Houseplant Shopping Cart
+e-plantShopping 
 
 ## Description
-Paradise Nursery is an e-commerce web app for buying houseplants. It is built with
-React and Redux Toolkit. Users can browse plants by category, add them to a shopping
-cart, change quantities, remove items, and see the total cost.
+e-plantShopping is an e-commerce web application for buying houseplants, built for
+the company Paradise Nursery. It is built with React and Redux Toolkit. Users can
+browse plants by category, add them to a shopping cart, change quantities, remove
+items, and see the total cost.
 
 ## Features
 - Landing page with the company name, background image, and a "Get Started" button
@@ -22,5 +22,7 @@ cart, change quantities, remove items, and see the total cost.
 React, Redux Toolkit, React-Redux, Vite
 
 ## Run Locally
+    git clone https://github.com/dhawal-cloud/e-plantShopping.git
+    cd e-plantShopping
     npm install
     npm run dev
